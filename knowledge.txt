@@ -1,0 +1,16 @@
+AI Data Analyst Agent Knowledge Base
+
+Product:
+The name of the product that was sold.
+
+Quantity:
+The number of units sold.
+
+Price:
+The price of the product.
+
+Region:
+The location where the product was sold.
+
+Business Rule:
+Higher quantity means more units were sold.
